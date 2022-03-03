@@ -19,12 +19,26 @@ This Banking System provides facilities such as
 - It is implemented using C language and multifile concept.
 ## SWOT Analysis
 ### Strengths 
-- 
+- User can Deposit, Withdraw, View balance.
 ### Weaknesses
--
+- If account number and password is wrong no further actions can take place.
 ### Opportunities
--
+- User can open an account.
+- User can deposit and withdraw money.
 ### Threats
--
-  
+- If account number and password is wrong no further actions can take place.
 
+## High Level Requirements
+
+| ID  | High Level Requirement | Status |
+| ------------- | ------------- | ------ |
+| HLR1  | User is able to open an account |         |
+| HLR2  | User is able to deposit money  |          |
+| HLR3  | User is able to withdraw money |          |
+
+## Low Level Requirements
+
+| ID  | Low Level Requirement | Status |
+| ------------- | ------------- | ------ |
+| LLR1  | User is able to see account details |         |
+| LLR2  | User is able to see balance available|       |
