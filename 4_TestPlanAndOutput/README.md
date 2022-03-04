@@ -2,7 +2,7 @@
 ## High Level Requirements Test Plan
 | ID    | High Level Requirement | Expected I/P | Expected O/P | Actual O/P | 
 | ----- | ---------------------- | ------------ | ------------ | ---------- | 
-| HLR1  | User is able to open an account |  First Name: Abc, Last Name: XYZ, Initial Balance: XXXX00   | CAccount has been created successfully| Account has been created successfully | 
+| HLR1  | User is able to open an account |  First Name: Abc, Last Name: XYZ, Initial Balance: XXXX00   | Account has been created successfully| Account has been created successfully | 
 | HLR2  | User is able to deposit money  |  Enter Balance : 1000  | The new balance for account X is 2000 | The new balance for account X is 2000 | 
 | HLR3  | User is able to withdraw money | Enter Balance : 1000| The new balance for account X is 1000 | The new balance for account X is 1000 |   
 | HLR3  | User is able to withdraw money | Enter Balance : 4000| You do not have enough balance in this account | You do not have enough balance in this account |
